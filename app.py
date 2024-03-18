@@ -31,7 +31,7 @@ def chrono_chime(url, profile_directory, interval_minutes):
 
 if __name__ == "__main__":
     # Set the URL, Chrome profile directory, and interval in minutes
-    target_url = "https://discord.com/channels/781056715726389298/1066999015830462464"
+    target_url = "https://example.com"
     chrome_profile_directory = "Default"  # Change this to the name of your Chrome profile
     chime_interval_minutes = 20  # Change this to the desired interval
 
